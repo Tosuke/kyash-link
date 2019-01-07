@@ -1,0 +1,6 @@
+/.envrc
+/node_modules
+/.env
+/.gcloud
+/app.yaml
+/dist
